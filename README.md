@@ -1,6 +1,6 @@
 # Hi there, I'm Hubert 👋
 
-## I am a passionate Data Analyst willing to develop new skills 🤩 
+## I am a passionate Data Analyst/Data Scientist willing to develop new skills 🤩 
 
 - 👨‍🎓  &nbsp;I'm pursuing my Master Degree in IT and econometrics
 - 💼  &nbsp;I possess 1-year work experience in Data Analysis (SQL, Power BI)
