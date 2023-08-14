@@ -4,7 +4,7 @@
 
 - 👨‍🎓  &nbsp;I'm pursuing my Master Degree in IT and econometrics
 - 💼  &nbsp;I possess 1-year work experience in Data Analysis (SQL, Power BI)
-- 🔭  &nbsp;I’m currently working on advanced dashboards in Power BI, ML projects and NLP
+- 🔭  &nbsp;I’m currently working on advanced dashboards in Power BI and ML projects
 - 🎯  &nbsp;My goal is to develop more analytical skills in practice and become a professional Data Analyst 
 - 🎈  &nbsp;My hobbies: maths, data analysis, data visualization, music, sport
 
